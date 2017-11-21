@@ -2,6 +2,7 @@
 public class JavaProject {
 	public static void main(String[] args) {
 		String hello = "hello";
-		System.out.println(hello);
+		String str = "java!!";
+		System.out.println(hello + str);
 	}
 }
